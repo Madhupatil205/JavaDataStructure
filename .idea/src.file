@@ -1,1 +1,2 @@
 _Read me45678
+ssh-agent bash -c 'ssh-add /home/av450/Documents/Learn/DS/personalrsaMadhura; git push origin practice'
